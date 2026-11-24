@@ -16,19 +16,19 @@ OddEngine Goods 사이트
    - github.com 에서 새 저장소 만들기 (예: keyring), Public
    - Add file > Upload files 로 이 폴더 안의 파일을 전부 끌어다 놓고 Commit
    - Settings > Pages > Branch: main / (root) > Save
-   - 1~2분 뒤 https://baegeunho21.github.io/OddEngineMerch 으로 열림
+   - 1~2분 뒤 https://baegeunho21.github.io/OddEngineGoods 으로 열림
    * 웹 업로드는 파일당 25MB까지라 영상은 그보다 작게.
 
 3. index.html 맨 위 설정 바꾸기
    window.SITE = {
-     url: "https://baegeunho21.github.io/OddEngineMerch",
-     shortUrl: "baegeunho21.github.io/OddEngineMerch",   <- 폰 화면에 크게 보이는 주소
+     url: "https://baegeunho21.github.io/OddEngineGoods",
+     shortUrl: "baegeunho21.github.io/OddEngineGoods",   <- 폰 화면에 크게 보이는 주소
      ...
    }
 
 4. QR 만들기
    QR 주소 끝에 ?qr 를 붙이면 폰에서 "부스에 와 주셔서 고마워요" 안내가 뜸.
-   예) https://baegeunho21.github.io/OddEngineMerch/?qr
+   예) https://baegeunho21.github.io/OddEngineGoods/?qr
 
 5. 새 버전 올릴 때
    download 폴더의 zip만 같은 이름으로 바꿔 올리고, index.html 설정의 version, size 수정.
