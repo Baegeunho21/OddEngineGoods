@@ -3,7 +3,7 @@ OddEngine Goods 사이트
 
 폴더 구성
   index.html                         사이트
-  download/OddEngineGoods_CursorKeyring.zip 다운로드 파일
+  download/OddEngineGoods.zip 다운로드 파일
   media/demo.mp4                     사용 영상 (직접 넣기)
 
 1. 영상 넣기
